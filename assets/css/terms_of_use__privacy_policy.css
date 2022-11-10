@@ -1,11 +1,12 @@
-p{
+p {
     font-family: "Arial", serif;
     color: white;
     font-size: 20px;
-    
+
 }
 
-h2{
+
+h2 {
     font-size: 20px;
     font-family: "Arial Black", serif;
     color: white;
@@ -18,7 +19,8 @@ h2{
     border: 3px solid cyan;
     padding: 10px;
 }
-ul{
+
+ul {
     font-family: "Arial", serif;
     color: white;
     font-size: 20px;
