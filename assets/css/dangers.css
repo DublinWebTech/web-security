@@ -81,18 +81,20 @@ header button:hover {
 .danger h2 {
     color: #79B2F5;
     font-size: 25px;
+    padding-top: 50px;
     font-family: "Arial", serif;
     text-decoration: underline;
 }
+.danger:hover {
+    background-color: #2f2f2f;
+}
 
 .danger img {
-    transform: translateZ(20px);
     width: 125px;
     height: 125px;
 }
 
 .danger {
-    transform-style: preserve-3d;
     width: 350px;
     height: 271px;
     background-color: #373737;

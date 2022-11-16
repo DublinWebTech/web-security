@@ -116,21 +116,24 @@ header button:hover {
 .danger h2 {
     color: #79B2F5;
     font-size: 25px;
+    padding-top: 50px;
     font-family: "Arial", serif;
     text-decoration: underline;
 }
 
 .danger img {
-    transform: translateZ(20px);
     width: 125px;
     height: 125px;
 }
 .danger {
-    transform-style: preserve-3d;
     width: 350px;
     height: 271px;
     background-color: #373737;
     border-radius: 30px;
+}
+
+.danger:hover {
+    background-color: #2f2f2f;
 }
 
 .dangers_title {
@@ -150,8 +153,6 @@ header button:hover {
     width: fit-content;
     margin: 0 auto;
 }
-
-
 
 .popup:target {
     visibility: visible;
