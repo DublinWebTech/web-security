@@ -4,6 +4,12 @@ https://dublinwebtech.github.io/web-security/index.html
 
 # Description
 
+Hello, we will explain you why we chose this specific topic of the dangers of internet for our website. 
+So there is more and more people every day using internet, more industry and sectos are using it, people using it are younger than the past decade and will continue as so. 
+Our duty is to sensibilies, prevent and make sure that as much people as possible are aware of those dangers coming from either other people or even themselves while being unaware of it. 
+People by coming on our website will be able to discover every dangers yet existing in our world of new tech and be aware of them also knowing how to prevent them from happening to be safer and protecting their family.
+
+
 The main page is designed to, first, briefly introduce the notion of internet dangers and then give a starting point to learn the basics of internet safety by presenting four of the main threats that come with use of the internet (presented in a grid format). If the user wants to look further into it we redirect them to a page with further information. To help with navigating through the different pages of our website each page has a header with a navigation bar letting them return to the main page at all times, find the footer and, in the case of the main page, navigate through the different sections within the page. Every page contains the same footer containing three different ways to contact us (email address, phone number and physical address) as well as our terms of use and our privacy policy. The dangers page contains a three by three grid presenting more of the most common dangers linked to the internet. If you click on one of the dangers, whether on the main page or on the dangers pages, a pop-up will appear with information regarding the problem. The terms of use page is pretty classic in its presentation and contains our terms of use with titles separating the paragraphs of the different rubrics, paragraphs that are themselves framed inside blue rectangles. The privacy policy page resembles the terms of use page in its presentation in the way that each paragraph of the different rubrics is separated by said rubric’s title and framed inside a blue rectangle.
 
 We decided to break down our project in different steps using the agile method, meaning that the main steps of our project are: 
@@ -24,3 +30,5 @@ For the Header we put 3 button : The introduction, Dangers and Help. The button 
 On the footer you have the contact and term of use and policy. You have two link that send you to the term of use and an other link that send you to the policy privacy.
 
 For the page of danger, we created a page, then we put case with the name of the danger with an illustration. When you click on the case, a text appear, it describes the danger.The repository is constructed as follows: first a folder named “assets” containing the folder inside which are stored all the css files and another folder containing all of the images used, then the readme file containing this report, then all the html files (in that order: “dangers”, “index”, “privacy policy”, “terms of use”). The naming convention our team chose for our files and our code is the snake case convention which consists in replacing the spaces with underscores and not capitalizing any words.
+
+
