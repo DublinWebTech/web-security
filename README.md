@@ -1,6 +1,6 @@
 # web-security
 
-https://dublinwebtech.github.io/web-security/index.html
+https://dublinwebtech.github.io/web-security/src/Home/Home.html
 
 # Description
 
