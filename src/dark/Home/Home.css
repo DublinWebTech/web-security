@@ -35,25 +35,25 @@ header {
 }
 
 
-
 header button {
     color: white;
     font-size: 20px;
     font-family: "Arial Black", serif;
-    background-color: #373737;
+    background-color: transparent;
     width: 200px;
     height: 50px;
     border: 0;
     border-radius: 30px;
+    transition: ease 0.5s;
 }
+
 
 
 
 header button:hover {
     cursor: pointer;
-    animation-name: hoverButton;
-    animation-duration: 1s;
-    box-shadow: 1px 1px 1px 1px rgba(0,0,0, .4);
+    color: rgba(255, 255, 255, 0.5);
+    transform: scale(1.2);
 }
 
 @keyframes hoverButton {
@@ -76,8 +76,7 @@ header button:hover {
     margin: 50px auto auto;
     text-align: center;
     transition: ease .5s;
-    box-shadow:  11px 11px 23px #1e1e1e,
-    -11px -11px 23px #373737;
+    box-shadow:  0 10px 15px -3px rgb(0 0 0 / 20%);
 }
 
 
@@ -162,12 +161,12 @@ header button:hover {
     background-color: #373737;
     width: 300px;
     height: 53px;
-    border: 3px solid #373737;
+    border: 0;
     border-radius: 30px;
 }
 .dangers .show_more:hover {
     cursor: pointer;
-    border: 5px solid #2c2c2c;
+    border: 3px solid #2c2c2c;
 }
 
 .danger .show {
@@ -187,7 +186,7 @@ header button:hover {
     border: 5px solid #2c2c2c;
 }
 .danger h2 {
-    color: #79B2F5;
+    color: white;
     font-size: 25px;
     padding-top: 50px;
     font-family: "Arial", serif;
@@ -203,16 +202,20 @@ header button:hover {
     height: 271px;
     background-color: #373737;
     border-radius: 30px;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 20%);
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
 }
 
 .danger:hover {
     background-color: #2f2f2f;
+    transform: scale(1.02);
 }
 
 .dangers_title {
     font-size: 38px;
     font-family: "Arial Black", serif;
-    color: #5F8FC8;
+    color: white;
     text-align: center;
     text-decoration: underline;
     margin-top: 100px;
@@ -248,7 +251,7 @@ footer {
 
 
 .contact h1 {
-    color: #5F8FC8;
+    color: white;
     font-size: 35px;
     font-family: "Arial Black", serif;
     text-decoration: underline;
