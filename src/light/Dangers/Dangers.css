@@ -64,24 +64,6 @@ header button:hover {
 }
 
 
-.danger .show {
-    margin-top: 10px;
-    text-align: center;
-    color: white;
-    font-size: 15px;
-    font-family: "Arial Black", serif;
-    background-color: #454545;
-    width: 150px;
-    height: 53px;
-    border: 3px solid #373737;
-    border-radius: 30px;
-}
-
-.danger .show:hover {
-    cursor: pointer;
-    border: 5px solid #2c2c2c;
-}
-
 .danger h2 {
     color: #2c2d2f;
     font-size: 25px;
