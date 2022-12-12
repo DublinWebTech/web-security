@@ -2,7 +2,8 @@
 
 https://dublinwebtech.github.io/web-security
 
-# Description
+
+# SPRINT 1
 
 Hello, we will explain you why we chose this specific topic of the dangers of internet for our website. 
 So there is more and more people every day using internet, more industry and sectos are using it, people using it are younger than the past decade and will continue as so. 
@@ -31,4 +32,10 @@ On the footer you have the contact and term of use and policy. You have two link
 
 For the page of danger, we created a page, then we put case with the name of the danger with an illustration. When you click on the case, a text appear, it describes the danger.The repository is constructed as follows: first a folder named “assets” containing the folder inside which are stored all the css files and another folder containing all of the images used, then the readme file containing this report, then all the html files (in that order: “dangers”, “index”, “privacy policy”, “terms of use”). The naming convention our team chose for our files and our code is the snake case convention which consists in replacing the spaces with underscores and not capitalizing any words.
 
+
+
+# SPRINT 2
+
+
+..
 
