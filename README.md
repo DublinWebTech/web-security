@@ -37,5 +37,10 @@ For the page of danger, we created a page, then we put case with the name of the
 # SPRINT 2
 
 
-..
+We reviewed the first sprint and we updated many point. We changed the design of the site, instead of using a dark theme, we used a white theme with gray (For a site about education, a dark theme is not reassuring. We added animation of the site, the site is more alive and friendly : The Header and the popup are bigger when the mouse is over them. The main title have an animation when you slide on the letter. We added a dark /light mode if the reader eyes are tired. And we put 2 mores pages the FAQ and the reaction. On the FAQ we answer questions. You click on a question and a detailed answer appears. On the reaction page, you can see different comments from users. You can see when the comment was posted and who wrote it.
+We worked together, the brainstorm was useful, we directly found the goal of the site. It was easy to communicate and using a to do list with Trello made it easier. When we created the wireframe we did not agree on a few points, like the theme or the disposition of the information but we did the best we could do. 
+We had difficulties using the agile method because it was the first time we used it, for that we took much time to organize. For some of us, it was our first time with GitHub so we helped each other.
+The updated repository is constructed as follows: On the front, an html file named “index” used to shorten the url of our website, the “README” file and a folder titled “src”. In the src folder we can find three other folders, a folder for all the assets and images, a folder titled “dark” containing every file useful for the website in its dark theme and a folder named “light” containing every file useful for the website in light mode. In the “dark” folder you can find a css folder, containing the css files universally used within the website, and six other folders for every page of the website (“Dangers”, “Faq”, “Home”, “PolicyPrivacy”, “Reaction” and “TermsOfUse”) containing the html file (sometimes also a css file) for the page it is named after. The “light” folder is constructed similarly to the “dark” folder.
+
+
 
